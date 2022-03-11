@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="64b27096-3ba1-4020-b6a3-b0ee7c0763b0" name="Dreadfire">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
